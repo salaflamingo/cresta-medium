@@ -28,6 +28,7 @@ a {
   font-weight: bold;
   text-decoration: none;
   transition: .3s;
+  cursor: pointer;
 }
 .submit-btn:hover {
   opacity: .7;
@@ -35,6 +36,7 @@ a {
 }
 .submit-btn a {
   color: #333;
+  display: block;
 }
 
 /* ヘッダー */
